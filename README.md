@@ -51,11 +51,9 @@ Meeting notes:
 
 <b>Week 2</b>
 </br>
-Members present: List the NetID of the people who attended the meeting
-
-Team Agreed to Cancel this meeting since we had completed Milestone 1 ahead of time
+Members present: Team Agreed to Cancel this meeting since we had completed Milestone 1 ahead of time
 </br>
-Meeting notes: Explain the overall team progress and a summary of discussion
+Meeting notes: Team Agreed to Cancel this meeting since we had completed Milestone 1 ahead of time
 </br>
 | NetID | Progress from last week | Tasks for next week |
 | ---------------| --------------------------------| ----------------------|
@@ -71,14 +69,9 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 
 <b>Week 3</b>
 </br>
-Members present: List the NetID of the people who attended the meeting
-
-Shengyuan Wang, Thomas Killian, Jeremiah Crowell, Pu Xia, Xiaoke Li, Ethan Pizarro, Ethan Pizarro
-
+Members present: sw85, tok2, jcrowe6, puxia2, xiaokel3, epizar4, xyao14
 </br>
-Meeting notes: Explain the overall team progress and a summary of discussion
-
-Team discussed the breakdown of work for Milestone 2 and future meeting times as needed to accomplish this.
+Meeting notes: Team discussed the breakdown of work for Milestone 2 and future meeting times as needed to accomplish this.
 </br>
 | NetID | Progress from last week | Tasks for next week |
 | ---------------| --------------------------------| ----------------------|
