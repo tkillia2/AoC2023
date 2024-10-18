@@ -54,6 +54,7 @@ Meeting notes:
 Members present: List the NetID of the people who attended the meeting
 
 Team Agreed to Cancel this meeting since we had completed Milestone 1 ahead of time
+
 </br>
 Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
@@ -74,10 +75,12 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 Members present: List the NetID of the people who attended the meeting
 
 Shengyuan Wang, Thomas Killian, Jeremiah Crowell, Pu Xia, Xiaoke Li, Ethan Pizarro, Ethan Pizarro
+
 </br>
 Meeting notes: Explain the overall team progress and a summary of discussion
 
 Team discussed the breakdown of work for Milestone 2 and future meeting times as needed to accomplish this.
+
 </br>
 | NetID | Progress from last week | Tasks for next week |
 | ---------------| --------------------------------| ----------------------|
